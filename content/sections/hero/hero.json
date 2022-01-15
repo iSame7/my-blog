@@ -1,0 +1,18 @@
+{
+  "intro": "Hello",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Sameh Mabrouk",
+  "subtitle": {
+    "prefix": "i design and build ",
+    "highlight": "things for mobile.",
+    "suffix": "."
+  },
+  "description": "Freelance Software Engineer specialized in mobile apps. Based in Amsterdam.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}

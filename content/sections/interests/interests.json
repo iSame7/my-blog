@@ -1,0 +1,75 @@
+{
+  "interests": [
+    {
+      "label": "Swift",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Objective-C",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Swift UI",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "iOS",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "GraphQL(Apollo)",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Graphene",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Django",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Postgresql",
+      "image": {
+        "alt": ""
+      }
+    },    
+    {
+      "label": "Android",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Product Management",
+      "image": {
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

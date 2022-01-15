@@ -1,0 +1,13 @@
+{
+  "name": "Sameh Mabrouk",
+  "email": "mabrouksameh@gmail.com",
+  "description": "Feel free to reach out to me at any time, I am always interested in new stuff!",
+  "image": {
+    "src": "../../images/profile-pic.jpg",
+    "alt": "Sameh"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

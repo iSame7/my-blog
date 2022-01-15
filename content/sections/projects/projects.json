@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "👨‍💼 Full TIME PROJECT",
+      "title": "VanMoof",
+      "description": "Get the most out of your Electrified or SmartBike with the VanMoof app. Lock or unlock your bike, check its battery levels, and remember where you parked it – all from your phone.",
+      "tags": ["Core Bluetooth", "Swift", "VIPER", "PHP", "Go"],
+      "image": {
+        "src": "../../images/1200x600wa.png",
+        "alt": "VanMoof"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/nl/app/vanmoof/id1119135275"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "👨‍💼 Full TIME PROJECT",
+      "title": "Tiqets",
+      "description": "The Tiqets app opens the doors of culture to those who don’t want to wait in culture’s long lines! Whether you’re at home or already traveling, you can browse cultural attractions, read venue reviews, and purchase paperless tickets without leaving the app. With tickets delivered instantly to your smartphone, and many skip-the-line options, never again must you spend needless time waiting in line.",
+      "tags": ["Swift", "VIPER", "Python", "PFF(backend for frontend)"],
+      "image": {
+        "src": "../../images/1200x630wa.png",
+        "alt": "Tiqets"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/nl/app/vanmoof/id1119135275"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "👨‍💼 Full TIME PROJECT",
+      "title": "Temper",
+      "description": "Temper is THE platform for FreeFlex work. We make working for yourself easy. With a super easy platform and enough shifts in the best places. By choosing where, when and at what rate you work, you align your work with your private life instead of the other way around. There are 8,000 new freelance catering and retail shifts in your area every week. You can easily start as a freelancer via our platform. Create a profile on Temper and score your first freelance assignment today.",
+      "tags": ["Swift", "Modularized architecture", "PHP", "GraphQl"],
+      "image": {
+        "src": "../../images/temper.png",
+        "alt": "Temper"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/nl/app/vanmoof/id1119135275"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "💪 SIDE PROJECT",
+      "title": "Hoof",
+      "description": "Hoof is an online social network where football athletes can record their activities, compare performance, and compete with their community. Think of Strava for football.",
+      "tags": ["Swift", "Modularized architecture", "Python", "Django", "Graphene", "GraphQl"],
+      "image": {
+        "src": "../../images/Hoof.png",
+        "alt": "Hoof"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.gethoof.app/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "SEE MORE ON GITHUB",
+    "url": "https://github.com/iSame7"
+  }
+}
