@@ -3,6 +3,23 @@
     {
       "visible": true,
       "category": "👨‍💼 Full TIME PROJECT",
+      "title": "Bleacher Report",
+      "description": "Bleacher Report is one of the leading sports media apps in the U.S., offering real-time alerts, scores, video content, and personalized coverage for major leagues including the NBA, NFL, NHL, MLB, WNBA, NCAA, and global football. At Warner Bros. Discovery, I contributed to the development and scaling of the app, building key features such as real-time betting integrations using DraftKings API, live video streaming, and sports score tracking. My work spanned multiple leagues and included personalization, content delivery, and performance optimizations — all contributing to a high-quality fan experience across millions of users.",
+      "tags": ["Betting Integration", "Swift", "Kotlin", "Typescript", "DraftKings API", "Live Video Streaming", "SportsTech", "CI/CD"],
+      "image": {
+        "src": "../../images/bleacher-report.jpg",
+        "alt": "Bleacher Report"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/nl/app/vanmoof/id1119135275"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "👨‍💼 Full TIME PROJECT",
       "title": "VanMoof",
       "description": "Get the most out of your Electrified or SmartBike with the VanMoof app. Lock or unlock your bike, check its battery levels, and remember where you parked it – all from your phone.",
       "tags": ["Core Bluetooth", "Swift", "VIPER", "PHP", "Go"],
@@ -24,7 +41,7 @@
       "description": "The Tiqets app opens the doors of culture to those who don’t want to wait in culture’s long lines! Whether you’re at home or already traveling, you can browse cultural attractions, read venue reviews, and purchase paperless tickets without leaving the app. With tickets delivered instantly to your smartphone, and many skip-the-line options, never again must you spend needless time waiting in line.",
       "tags": ["Swift", "VIPER", "Python", "PFF(backend for frontend)"],
       "image": {
-        "src": "../../images/1200x630wa.png",
+        "src": "../../images/tiqets.jpg",
         "alt": "Tiqets"
       },
       "links": [

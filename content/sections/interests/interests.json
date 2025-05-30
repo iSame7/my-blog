@@ -53,7 +53,37 @@
       "image": {
         "alt": ""
       }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "alt": ""
+      }
     },    
+    {
+      "label": "Typescript",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Kubernetes",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Kafka",
+      "image": {
+        "alt": ""
+      }
+    },
     {
       "label": "Android",
       "image": {
@@ -62,6 +92,36 @@
     },
     {
       "label": "Product Management",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Team building & scaling",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Roadmap & KPI ownership",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Cross-functional collaboration",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "CI/CD & DevOps",
+      "image": {
+        "alt": ""
+      }
+    },
+    {
+      "label": "Performance & reliability",
       "image": {
         "alt": ""
       }
